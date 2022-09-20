@@ -1,3 +1,5 @@
+package podstawy;
+
 public class Zadanie8 {
     public static void main(String[] args) {
         String name = "Przemek";
